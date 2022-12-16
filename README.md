@@ -8,7 +8,7 @@
  
 **Team Members: **
 
-1. Payal Dhillon 
+1. Payal Dhillon (Alisha) 
 2. Yonghao Liu
 3. Termeh Mohebbie 
 4 . Md Mohsin Rana 
@@ -29,7 +29,7 @@ We have analysis all the data to figure out how the inflation is This analysis w
 
 **Assigned Task to the Team member **
 
-1. How does inflation affect purchasing habits - Payal Dhillon
+1. How does inflation affect purchasing habits - Payal Dhillon (Alisha)
 2. How do grocery prices and minimum wages relate to Inflation- Yonghao Liu
 3. How does inflation affect labor market -  Termeh Mohebbie
 4. How does inflation affect real estate market - Md Mohsin Rana
